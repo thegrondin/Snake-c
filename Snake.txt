@@ -1,0 +1,1 @@
+./Debug/snake.c.o ./Debug/b_renderer.c.o ./Debug/engine.c.o ./Debug/main.c.o   
